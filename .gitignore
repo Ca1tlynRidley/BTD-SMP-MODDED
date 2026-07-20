@@ -1,0 +1,35 @@
+# =====================
+# Minecraft Worlds
+# =====================
+world/
+world_nether/
+world_the_end/
+
+# =====================
+# Runtime / Generated
+# =====================
+logs/
+crash-reports/
+debug/
+libraries/
+versions/
+run/
+
+# =====================
+# Cache
+# =====================
+usercache.json
+usernamecache.json
+session.lock
+
+# =====================
+# Secrets
+# =====================
+*.pem
+.env
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db

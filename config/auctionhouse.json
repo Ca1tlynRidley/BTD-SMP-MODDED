@@ -1,0 +1,5 @@
+{
+  "maxItemsPerPlayer": 10,
+  "auctionSecondsDuration": 604800,
+  "auctionHouseMaxPages": 50
+}

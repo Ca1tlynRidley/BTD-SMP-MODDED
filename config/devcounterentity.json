@@ -1,0 +1,19 @@
+{
+  "configVersion": 1,
+  "chanceToSpawn": 1.0,
+  "mainScreamerChance": 0.5,
+  "killChance": 0.5,
+  "cornerScreamerChance": 1.0,
+  "spawnIntervalTicks": 8000,
+  "spawnJitterTicks": 600,
+  "minSpawnDelayTicks": 8000,
+  "maxSpawnDelayTicks": 12000,
+  "cornerScreamerMinDelayTicks": 1200,
+  "cornerScreamerMaxDelayTicks": 2200,
+  "rainBeforeSpawnSeconds": 15,
+  "rainAfterScreamerSeconds": 0,
+  "screamerDelaySeconds": 5,
+  "entityLifetimeSeconds": 120,
+  "minDistance": 5,
+  "maxDistance": 14
+}
