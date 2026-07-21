@@ -202,9 +202,6 @@ Created and maintained by:
 
 Special thanks to:
 
-- Minecraft modding community
-- Fabric developers
-- Mod authors
 - Everyone who contributes ideas and testing
 
 ---
