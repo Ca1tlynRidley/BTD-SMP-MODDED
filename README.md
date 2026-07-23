@@ -16,6 +16,7 @@
 
 <p align="center">
   <a href="#-quick-install">📥 Quick Install</a> •
+  <a href="#-custom-mods-by-btd">🔥 Custom Mods</a> •
   <a href="#-features">✨ Features</a> •
   <a href="#-full-mod-list">🧩 Mod List</a> •
   <a href="#-server-infrastructure">☁️ Infrastructure</a> •
@@ -50,6 +51,48 @@ The server-side files are included in this repository:
 ├── mods/                           # All server-side mods
 └── FULL MODPACK 1.0.3.mrpack       # Client modpack for distribution
 ```
+
+---
+
+## 🔥 Custom Mods by BTD
+
+> **These mods were developed in-house specifically for BTD SMP and are published on Modrinth.**
+> They are open-source, built with Fabric, and available for anyone to use!
+
+### 🛒 Shop Mod BTD
+
+<p>
+  <a href="https://modrinth.com/mod/shop-mod-btd"><img src="https://img.shields.io/badge/Modrinth-Shop%20Mod%20BTD-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
+  <a href="https://github.com/Ca1tlynRidley/BTD-Shop-Sell"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT">
+</p>
+
+A complete **in-game economy system** with graphical shop and selling interfaces powered by the Impactor economy.
+
+- 🏪 `/shop` — browse organized categories (Ingredients, Blocks, Combat, Food, Redstone, Functional) and purchase items
+- 💰 `/sell` — place items in a double-chest selling GUI, click Sell, and get paid instantly
+- 👤 Player balance display using the player's own head
+- 🛡️ Safely returns unsupported/unsold items — no item loss ever
+- 📊 Preconfigured buy & sell prices for all vanilla items
+- 🔌 Optional VinURL compatibility for custom records
+
+### 🥚 Capture Egg
+
+<p>
+  <a href="https://modrinth.com/mod/capture-egg"><img src="https://img.shields.io/badge/Modrinth-Capture%20Egg-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
+  <a href="https://github.com/Ca1tlynRidley/Capture-Egg"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT">
+</p>
+
+A lightweight **reusable mob capture item** — right-click any mob to store it, right-click again to release it anywhere.
+
+- 🎯 Capture any living mob with a single right-click
+- ♻️ Fully reusable — capture, release, repeat
+- 🧑‍🌾 Preserves villager professions & trades (Shift + Right Click to capture villagers)
+- ✨ Filled eggs gain an enchantment glint with mob name in tooltip
+- 🐉 Configurable `uncapturable` entity tag for bosses
+- 🔊 Custom capture and release sound effects
+- 📦 Works with vanilla and modded mobs
 
 ---
 
