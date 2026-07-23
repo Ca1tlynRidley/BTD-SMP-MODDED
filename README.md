@@ -302,7 +302,7 @@ The server-side files are included in this repository:
 | **Minecraft** | 1.20.1 | 1.20.1 |
 | **RAM** | 4 GB allocated | 6–8 GB allocated |
 | **Java** | Java 17 | Java 17+ |
-| **Launcher** | Modrinth / Prism / MultiMC | Modrinth App |
+| **Launcher** | Modrinth / Prism / PolyMC |
 
 ---
 
