@@ -16,7 +16,7 @@
 
 ---
 
-## 📥 Quick Install
+##  Quick Install
 
 ### For Players (Client-Side Modpack)
 
