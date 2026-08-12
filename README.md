@@ -54,7 +54,6 @@ The server-side files are included in this repository:
 <p>
   <a href="https://modrinth.com/mod/shop-mod-btd"><img src="https://img.shields.io/badge/Modrinth-Shop%20Mod%20BTD-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
   <a href="https://github.com/Ca1tlynRidley/BTD-Shop-Sell"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT">
 </p>
 
 A complete **in-game economy system** with graphical shop and selling interfaces powered by the Impactor economy.
@@ -71,7 +70,6 @@ A complete **in-game economy system** with graphical shop and selling interfaces
 <p>
   <a href="https://modrinth.com/mod/capture-egg"><img src="https://img.shields.io/badge/Modrinth-Capture%20Egg-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
   <a href="https://github.com/Ca1tlynRidley/Capture-Egg"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT">
 </p>
 
 A lightweight **reusable mob capture item** — right-click any mob to store it, right-click again to release it anywhere.
