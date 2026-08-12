@@ -6,21 +6,12 @@
   <img src="https://img.shields.io/badge/Format-.mrpack-8B5CF6?style=for-the-badge" alt="mrpack">
 </p>
 
-<h1 align="center">🌌 BTD SMP — Modded</h1>
+<h1 align="center">BTD SMP — Modded</h1>
 
 <p align="center">
-  <b>A heavily customized modded Minecraft 1.20.1 survival experience built from the ground up.</b>
+  <b>A customized modded Minecraft 1.20.1 survival.</b>
   <br/>
   <sub>Enhanced combat · Expanded world generation · 70+ mods · Custom content · Dedicated cloud server</sub>
-</p>
-
-<p align="center">
-  <a href="#-quick-install">📥 Quick Install</a> •
-  <a href="#-custom-mods-by-btd">🔥 Custom Mods</a> •
-  <a href="#-features">✨ Features</a> •
-  <a href="#-full-mod-list">🧩 Mod List</a> •
-  <a href="#-server-infrastructure">☁️ Infrastructure</a> •
-  <a href="#-changelog">📜 Changelog</a>
 </p>
 
 ---
@@ -37,7 +28,7 @@
    - **Modrinth App** → Drag & drop the file, or go to `＋` → `From file`
    - **Prism Launcher** → `Add Instance` → `Import` → select the `.mrpack` file
    - **MultiMC** → `Add Instance` → `Import from zip` → select the `.mrpack` file
-4. Launch the game and connect to the server!
+4. Launch the game
 
 ### For Server Admins
 
@@ -54,12 +45,12 @@ The server-side files are included in this repository:
 
 ---
 
-## 🔥 Custom Mods by BTD
+## Custom Mods by BTD
 
 > **These mods were developed in-house specifically for BTD SMP and are published on Modrinth.**
 > They are open-source, built with Fabric, and available for anyone to use!
 
-### 🛒 Shop Mod BTD
+### Shop Mod BTD
 
 <p>
   <a href="https://modrinth.com/mod/shop-mod-btd"><img src="https://img.shields.io/badge/Modrinth-Shop%20Mod%20BTD-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
@@ -69,14 +60,14 @@ The server-side files are included in this repository:
 
 A complete **in-game economy system** with graphical shop and selling interfaces powered by the Impactor economy.
 
-- 🏪 `/shop` — browse organized categories (Ingredients, Blocks, Combat, Food, Redstone, Functional) and purchase items
-- 💰 `/sell` — place items in a double-chest selling GUI, click Sell, and get paid instantly
-- 👤 Player balance display using the player's own head
-- 🛡️ Safely returns unsupported/unsold items — no item loss ever
-- 📊 Preconfigured buy & sell prices for all vanilla items
-- 🔌 Optional VinURL compatibility for custom records
+- `/shop` — browse organized categories (Ingredients, Blocks, Combat, Food, Redstone, Functional) and purchase items
+-  `/sell` — place items in a double-chest selling GUI, click Sell, and get paid instantly
+-  Player balance display using the player's own head
+-  Safely returns unsupported/unsold items — no item loss ever
+-  Preconfigured buy & sell prices for all vanilla items
+-  Optional VinURL compatibility for custom records
 
-### 🥚 Capture Egg
+### Capture Egg
 
 <p>
   <a href="https://modrinth.com/mod/capture-egg"><img src="https://img.shields.io/badge/Modrinth-Capture%20Egg-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
@@ -86,23 +77,23 @@ A complete **in-game economy system** with graphical shop and selling interfaces
 
 A lightweight **reusable mob capture item** — right-click any mob to store it, right-click again to release it anywhere.
 
-- 🎯 Capture any living mob with a single right-click
-- ♻️ Fully reusable — capture, release, repeat
-- 🧑‍🌾 Preserves villager professions & trades (Shift + Right Click to capture villagers)
-- ✨ Filled eggs gain an enchantment glint with mob name in tooltip
-- 🐉 Configurable `uncapturable` entity tag for bosses
-- 🔊 Custom capture and release sound effects
-- 📦 Works with vanilla and modded mobs
+-  Capture any living mob with a single right-click
+-  Fully reusable — capture, release, repeat
+-  Preserves villager professions & trades (Shift + Right Click to capture villagers)
+-  Filled eggs gain an enchantment glint with mob name in tooltip
+-  Configurable `uncapturable` entity tag for bosses
+-  Custom capture and release sound effects
+-  Works with vanilla and modded mobs
 
 ---
 
-## ✨ Features
+##  Features
 
 <table>
 <tr>
 <td width="50%">
 
-### ⚔️ Combat & Adventure
+### Combat & Adventure
 - Enhanced combat mechanics with **Boss Blades** and **More Swords Legacy**
 - Terrifying **Mutant Monsters** and challenging boss encounters
 - Unique **Artifacts** — find rare, powerful relics as loot
@@ -124,7 +115,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 <tr>
 <td width="50%">
 
-### 🏰 Building & Decoration
+###  Building & Decoration
 - **Cluttered** — decorative clutter blocks
 - **Banner Flags** & **Banner Bedsheets** — custom banner displays
 - **Painters Inc.** — expanded painting mechanics
@@ -133,7 +124,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </td>
 <td width="50%">
 
-### 🛠️ Quality of Life
+###  Quality of Life
 - **Veinminer** — mine entire ore veins at once
 - **AppleSkin** — food and hunger HUD info
 - **Emojiful** — emoji support in chat
@@ -152,7 +143,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </td>
 <td width="50%">
 
-### ⚡ Performance
+###  Performance
 - **C2ME** — concurrent chunk management engine
 - **ModernFix** — memory and load time optimization
 - **ImmediatelyFast** — instant rendering optimizations
@@ -166,7 +157,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 
 ---
 
-## 🧩 Full Mod List
+##  Full Mod List
 
 > **70+ mods** carefully selected and configured for the ultimate SMP experience.
 
@@ -187,7 +178,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </details>
 
 <details>
-<summary><b>🌍 World Generation</b> — click to expand</summary>
+<summary><b> World Generation</b> — click to expand</summary>
 
 | Mod | Description |
 |-----|-------------|
@@ -202,7 +193,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </details>
 
 <details>
-<summary><b>🏗️ Building & Decoration</b> — click to expand</summary>
+<summary><b> Building & Decoration</b> — click to expand</summary>
 
 | Mod | Description |
 |-----|-------------|
@@ -215,7 +206,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </details>
 
 <details>
-<summary><b>🔧 Server Administration</b> — click to expand</summary>
+<summary><b> Server Administration</b> — click to expand</summary>
 
 | Mod | Description |
 |-----|-------------|
@@ -231,7 +222,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </details>
 
 <details>
-<summary><b>⚡ Performance & Optimization</b> — click to expand</summary>
+<summary><b> Performance & Optimization</b> — click to expand</summary>
 
 | Mod | Description |
 |-----|-------------|
@@ -246,7 +237,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </details>
 
 <details>
-<summary><b>📚 Libraries & APIs</b> — click to expand</summary>
+<summary><b> Libraries & APIs</b> — click to expand</summary>
 
 | Mod | Description |
 |-----|-------------|
@@ -263,7 +254,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </details>
 
 <details>
-<summary><b>🎨 Quality of Life & Misc</b> — click to expand</summary>
+<summary><b> Quality of Life & Misc</b> — click to expand</summary>
 
 | Mod | Description |
 |-----|-------------|
@@ -279,83 +270,61 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 ## ☁️ Server Infrastructure
 
 ```
-┌──────────────────────────────────────────────┐
-│              BTD SMP Architecture             │
-├──────────────────────────────────────────────┤
-│                                              │
-│   ☁️  AWS EC2 Instance                       │
-│   ├── 🐧 Ubuntu Linux                       │
-│   ├── ☕ Java Runtime                        │
-│   ├── 🧵 Fabric Loader                      │
-│   └── ⛏️  Minecraft 1.20.1                   │
-│                                              │
-│   🔐 Access: SSH                             │
-│   💾 Backups: Manual + Versioned             │
-│   📦 Version Control: Git / GitHub           │
-│                                              │
-└──────────────────────────────────────────────┘
+[Oracle]
 ```
 
-| Component | Details |
-|-----------|---------|
-| **Cloud Provider** | AWS EC2 |
-| **Operating System** | Ubuntu Linux |
-| **Minecraft Version** | 1.20.1 |
-| **Mod Loader** | Fabric |
-| **Server Management** | SSH |
-| **Backup System** | Manual + versioned snapshots |
-| **Deployment** | Git-based version control |
+
 
 ---
 
-## 📜 Changelog
+## Changelog
 
-### 🌌 v1.0.3 — Current Release
+###  v1.0.3 — Current Release
 
 > **Status:** `Stable` · **Type:** Major Content Update
 
-**✨ Added**
+** Added**
 - New gameplay improvements and content expansions
 - Updated mod configuration balancing
 - Server stability improvements
 - Custom server enhancements
 
-**⚔️ Gameplay Changes**
+** Gameplay Changes**
 - Improved progression balance
 - Adjusted difficulty scaling
 - Enhanced exploration experience
 - Updated combat mechanics
 
-**🛠️ Server Improvements**
+** Server Improvements**
 - Improved AWS EC2 server management
 - Optimized Linux server workflow
 - Updated server configurations
 - Better backup organization
 
-**🐛 Bug Fixes**
+** Bug Fixes**
 - Fixed configuration issues
 - General stability improvements
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 | Requirement | Minimum | Recommended |
 |-------------|---------|-------------|
 | **Minecraft** | 1.20.1 | 1.20.1 |
-| **RAM** | 4 GB allocated | 6–8 GB allocated |
+| **RAM** | 6–8 GB allocated |
 | **Java** | Java 17 | Java 17+ |
 | **Launcher** | Modrinth / Prism / PolyMC |
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 BTD SMP is a community-driven server. If you'd like to suggest mods, report bugs, or request features, open an [Issue](https://github.com/Ca1tlynRidley/BTD-SMP-MODDED/issues) on this repository.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
@@ -364,7 +333,7 @@ Individual mods are owned by and licensed by their respective authors.
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by the BTD SMP team</sub>
+  <sub>Made by the BTD SMP team</sub>
   <br/>
-  <sub>⭐ Star this repo if you're part of the SMP!</sub>
+  <sub> Star this repo if you're part of the SMP</sub>
 </p>
