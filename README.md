@@ -100,7 +100,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 </td>
 <td width="50%">
 
-### 🌎 World Generation
+###  World Generation
 - **Terralith** — 100+ new biomes with stunning terrain
 - **YUNG's Cave Biomes** — lush, diverse underground
 - **Better End** — completely overhauled End dimension
@@ -133,7 +133,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 <tr>
 <td width="50%">
 
-### 🚂 Transport & Logistics
+###  Transport & Logistics
 - **Create: Steam 'n' Rails** — advanced railways and trains
 - Expanded minecart and transport systems
 
