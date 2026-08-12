@@ -2,7 +2,6 @@
   <img src="https://img.shields.io/badge/⛏%20Minecraft-1.20.1-2ea44f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjNWI4NzMxIi8+PC9zdmc+" alt="Minecraft">
   <img src="https://img.shields.io/badge/Modloader-Fabric-dbb78a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjZGJiNzhhIi8+PC9zdmc+" alt="Fabric">
   <img src="https://img.shields.io/badge/Version-v1.0.3-blue?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Hosted%20On-AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS EC2">
   <img src="https://img.shields.io/badge/Format-.mrpack-8B5CF6?style=for-the-badge" alt="mrpack">
 </p>
 
