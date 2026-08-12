@@ -159,7 +159,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 > **70+ mods** carefully selected and configured for the ultimate SMP experience.
 
 <details>
-<summary><b>⚔️ Gameplay & Content</b> — click to expand</summary>
+<summary><b> Gameplay & Content</b> — click to expand</summary>
 
 | Mod | Description |
 |-----|-------------|
@@ -264,7 +264,7 @@ A lightweight **reusable mob capture item** — right-click any mob to store it,
 
 ---
 
-## ☁️ Server Infrastructure
+##  Server Infrastructure
 
 ```
 [Oracle]
